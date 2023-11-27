@@ -1,9 +1,9 @@
-<h1> e-Ticaret_REDUX </h1>
+<h1> e-Ticaret_Redux </h1>
 
 Kendi JSON verilerimizi oluşturup,Redux-thunk kullanılarak yapılan eTicaret sitesi
 
 <h2> Kullanılan Teknolojiler </h2>
-
+HTML,CSS ve JAVASCRİPT kullanılarak geliştirilmiştir.Proje esnasında faydalanılan kütüphaneler ise;
 json-server
 axios
 react-redux
