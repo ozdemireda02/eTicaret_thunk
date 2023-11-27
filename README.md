@@ -1,10 +1,16 @@
-# React + Vite
+<h1> e-Ticaret_REDUX </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Kendi JSON verilerimizi oluşturup,Redux-thunk kullanılarak yapılan eTicaret sitesi
 
-Currently, two official plugins are available:
+<h2> Kullanılan Teknolojiler </h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# eTicaret_thunk
-# eTicaret_thunk
+json-server
+axios
+react-redux
+redux
+redux-thunk
+react-router-dom
+
+<h2> Çalışır Halinin Ekran Kaydı </h2>
+
+![](redux-thunk.gif)
